@@ -1,0 +1,11 @@
+{
+  "name": "repro",
+  "packageManager": "yarn@4.3.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "prettier": "^3.3.2",
+    "typescript": "^5.5.3"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "frontend",
+  "packageManager": "yarn@4.3.0",
+  "dependencies": {
+    "typescript": "^5.5.3"
+  }
+}
