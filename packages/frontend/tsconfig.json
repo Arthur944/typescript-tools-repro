@@ -4,5 +4,6 @@
     "paths": {
       "@my-app/common/*": ["../common/src/*"]
     }
-  }
+  },
+  "include": ["src", "../common/src"]
 }

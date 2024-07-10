@@ -1,7 +1,6 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
-    "composite": true,
     "paths": {
       "@my-app/common/*":["./packages/common/src/*"]
     }
